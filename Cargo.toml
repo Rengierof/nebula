@@ -1,0 +1,11 @@
+[package]
+name = "nebula"
+version = "0.1.0"
+authors = ["Shiftlesss <itsdarkinside+shiftless@gmail.com>"]
+
+[lib]
+name = "nebula"
+path = "src/lib.rs"
+
+[dependencies]
+glium = "*"
